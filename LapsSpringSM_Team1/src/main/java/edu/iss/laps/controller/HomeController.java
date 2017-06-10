@@ -1,4 +1,4 @@
-package edu.iss.laps;
+package edu.iss.laps.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
